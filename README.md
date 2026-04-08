@@ -1,7 +1,5 @@
 # Create a GIF with Python 🎞️
 
-A simple Python script that combines multiple images into an animated GIF in just 6 lines of code! This project is based on the [Codédex tutorial](https://www.codedex.io/projects/create-a-gif-with-python) by Sonny Li. 
-
 ## Description
 Graphics Interchange Format (GIF) is a popular image format used to display simple animations, operating much like a digital flipbook. This project demonstrates how to use Python's `imageio` library to read a sequence of static images and stitch them together into a looping GIF.
 
